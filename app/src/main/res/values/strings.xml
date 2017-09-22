@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RXJavaSlieder Activity</string>
+    <string name="slow">Slow</string>
+    <string name="medium">Medium</string>
+    <string name="fast">Fast</string>
+    <string name="slider_speed">Slider Speed</string>
+</resources>
