@@ -1,6 +1,5 @@
 # Android RxJava Reactive programming: Sample App
 [![AmjadOmari](https://firebasestorage.googleapis.com/v0/b/misc-31544.appspot.com/o/aomari.svg?alt=media&token=77658c30-5a06-4e1f-a783-2a51675d16b1)](http://www.amjadomari.com/)
-[![Amjad Omari Facebook](https://firebasestorage.googleapis.com/v0/b/misc-31544.appspot.com/o/facebook-circular-logo.svg?alt=media&token=ebdd3f86-3a91-4960-ac18-3140ff8891a0)](https://www.facebook.com/AmjadMOmari)
 
 This repository contains a detailed sample app that implements image viwer using viewPager using RxJava, butterknife, Glide and Lambda.
 <p align="center">
